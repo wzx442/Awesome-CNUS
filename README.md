@@ -9,7 +9,7 @@
 # Table of Contents
 - [Awesome-CNUS](#awesome-cnus)
 - [Table of Contents](#table-of-contents)
-- [filde](#filde)
+- [field](#field)
   - [metaverse](#metaverse)
   - [machine learning](#machine-learning)
   - [side-channel attack](#side-channel-attack)
@@ -25,7 +25,7 @@
 - [all paper](#all-paper)
   - [NDSS 2025](#ndss-2025)
 
-# filde
+# Field
 ## metaverse
 |Problem|Paper|conference|
 |-|-|-|
