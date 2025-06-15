@@ -9,7 +9,7 @@
 # Table of Contents
 - [Awesome-CNUS](#awesome-cnus)
 - [Table of Contents](#table-of-contents)
-- [field](#field)
+- [Field](#field)
   - [metaverse](#metaverse)
   - [machine learning](#machine-learning)
   - [side-channel attack](#side-channel-attack)
@@ -22,6 +22,11 @@
   - [Diffusion Models](#diffusion-models)
   - [federated learning](#federated-learning)
   - [IoT security](#iot-security)
+  - [Web security](#web-security)
+  - [Differential Privacy](#differential-privacy)
+  - [Ethereum](#ethereum)
+  - [LLM](#llm)
+  - [|API security  API Parameter Security Rule|Generating API Parameter Security Rules with LLM for API Misuse Detection|NDSS 2025|](#api-security--api-parameter-security-rulegenerating-api-parameter-security-rules-with-llm-for-api-misuse-detectionndss-2025)
 - [all paper](#all-paper)
   - [NDSS 2025](#ndss-2025)
 
@@ -38,6 +43,9 @@
 |Membership Inference Attack <br> Model Poisoning Attack|[A Method to Facilitate Membership Inference Attacks in Deep Learning Models](https://www.ndss-symposium.org/ndss-paper/a-method-to-facilitate-membership-inference-attacks-in-deep-learning-models/)|NDSS 2025|
 |Adversarial Attacks|[AlphaDog: No-Box Camouflage Attacks via Alpha Channel Oversight](https://www.ndss-symposium.org/ndss-paper/alphadog-no-box-camouflage-attacks-via-alpha-channel-oversight/)|NDSS 2025|
 |data leakage|[Automated Expansion of Privacy Data Taxonomy for Compliant Data Breach Notification](https://www.ndss-symposium.org/ndss-paper/automated-expansion-of-privacy-data-taxonomy-for-compliant-data-breach-notification/)|NDSS 2025|
+|Bit-Flip Attack|[Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/ndss-paper/compiled-models-built-in-exploits-uncovering-pervasive-bit-flip-attack-surfaces-in-dnn-executables/)|NDSS 2025|
+|Membership Inference attack|[Diffence: Fencing Membership Privacy With Diffusion Models](https://www.ndss-symposium.org/ndss-paper/diffence-fencing-membership-privacy-with-diffusion-models/)|NDSS 2025|
+|Model Ownership Verification|[Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://www.ndss-symposium.org/ndss-paper/explanation-as-a-watermark-towards-harmless-and-multi-bit-model-ownership-verification-via-watermarking-feature-attribution/)|NDSS 2025|
 
 
 ## side-channel attack
@@ -82,6 +90,8 @@
 |Kernel Compartmentalization|[BULKHEAD: Secure, Scalable, and Efficient Kernel Compartmentalization with PKS](https://www.ndss-symposium.org/ndss-paper/bulkhead-secure-scalable-and-efficient-kernel-compartmentalization-with-pks/)|NDSS 2025|
 |Malware Detection|[Careful About What App Promotion Ads Recommend! Detecting and Explaining Malware Promotion via App Promotion Graph](https://www.ndss-symposium.org/ndss-paper/careful-about-what-app-promotion-ads-recommend-detecting-and-explaining-malware-promotion-via-app-promotion-graph/)|NDSS 2025|
 |CSS-based fingerprinting|[Cascading Spy Sheets: Exploiting the Complexity of Modern CSS for Email and Browser Fingerprinting](https://www.ndss-symposium.org/ndss-paper/cascading-spy-sheets-exploiting-the-complexity-of-modern-css-for-email-and-browser-fingerprinting/)|NDSS 2025|
+|Bit-Flip Attack|[Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/ndss-paper/compiled-models-built-in-exploits-uncovering-pervasive-bit-flip-attack-surfaces-in-dnn-executables/)|NDSS 2025|
+|Evasive Ransomware|[Evasive Ransomware: A Case Study of the Evasion Tactics of the Black Basta Ransomware](https://www.ndss-symposium.org/ndss-paper/evasive-ransomware-a-case-study-of-the-evasion-tactics-of-the-black-basta-ransomware/)|NDSS 2025|
 
 ## Diffusion Models
 |Problem|Paper|conference|
@@ -100,6 +110,32 @@
 |-|-|-|
 |supply chain risk|[CHAOS: Exploiting Station Time Synchronization in 802.11 Networks](https://www.ndss-symposium.org/ndss-paper/chaos-exploiting-station-time-synchronization-in-802-11-networks/)|NDSS 2025|
 
+
+## Web security
+|Problem|Paper|conference|
+|-|-|-|
+|SOP vulnerability|[Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange](https://www.ndss-symposium.org/ndss-paper/cross-origin-web-attacks-via-http-2-server-push-and-signed-http-exchange/)|NDSS 2025|
+|Tracker Detection|[Duumviri: Detecting Trackers and Mixed Trackers with a Breakage Detector](https://www.ndss-symposium.org/ndss-paper/duumviri-detecting-trackers-and-mixed-trackers-with-a-breakage-detector/)|NDSS 2025|
+|Evasive Ransomware|[Evasive Ransomware: A Case Study of the Evasion Tactics of the Black Basta Ransomware](https://www.ndss-symposium.org/ndss-paper/evasive-ransomware-a-case-study-of-the-evasion-tactics-of-the-black-basta-ransomware/)|NDSS 2025|
+|web vulnerabilities|[EvoCrawl: Exploring Web Application Code and State using Evolutionary Search](https://www.ndss-symposium.org/ndss-paper/evocrawl-exploring-web-application-code-and-state-using-evolutionary-search/)|NDSS 2025|
+|API security <br> API Parameter Security Rule|[Generating API Parameter Security Rules with LLM for API Misuse Detection](https://www.ndss-symposium.org/ndss-paper/generating-api-parameter-security-rules-with-llm-for-api-misuse-detection/)|NDSS 2025|
+
+## Differential Privacy
+|Problem|Paper|conference|
+|-|-|-|
+|Data flow accuracy|[Delay-allowed Differentially Private Data Stream Release](https://www.ndss-symposium.org/ndss-paper/delay-allowed-differentially-private-data-stream-release/)|NDSS 2025|
+
+
+## Ethereum
+|Problem|Paper|conference|
+|-|-|-|
+|PTXPHISH phishing|[Dissecting Payload-based Transaction Phishing on Ethereum](https://www.ndss-symposium.org/ndss-paper/dissecting-payload-based-transaction-phishing-on-ethereum/)|NDSS 2025| 
+
+
+## LLM
+|Problem|Paper|conference|
+|-|-|-|
+|API security <br> API Parameter Security Rule|[Generating API Parameter Security Rules with LLM for API Misuse Detection](https://www.ndss-symposium.org/ndss-paper/generating-api-parameter-security-rules-with-llm-for-api-misuse-detection/)|NDSS 2025|
 -------------
 
 # all paper
@@ -119,3 +155,13 @@
 - [CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling](https://www.ndss-symposium.org/ndss-paper/censor-defense-against-gradient-inversion-via-orthogonal-subspace-bayesian-sampling/)
 - [CHAOS: Exploiting Station Time Synchronization in 802.11 Networks](https://www.ndss-symposium.org/ndss-paper/chaos-exploiting-station-time-synchronization-in-802-11-networks/)
 - [CLIBE: Detecting Dynamic Backdoors in Transformer-based NLP Models](https://www.ndss-symposium.org/ndss-paper/clibe-detecting-dynamic-backdoors-in-transformer-based-nlp-models/)
+- [Compiled Models, Built-In Exploits: Uncovering Pervasive Bit-Flip Attack Surfaces in DNN Executables](https://www.ndss-symposium.org/ndss-paper/compiled-models-built-in-exploits-uncovering-pervasive-bit-flip-attack-surfaces-in-dnn-executables/)
+- [Cross-Origin Web Attacks via HTTP/2 Server Push and Signed HTTP Exchange](https://www.ndss-symposium.org/ndss-paper/cross-origin-web-attacks-via-http-2-server-push-and-signed-http-exchange/)
+- [Delay-allowed Differentially Private Data Stream Release](https://www.ndss-symposium.org/ndss-paper/delay-allowed-differentially-private-data-stream-release/)
+- [Diffence: Fencing Membership Privacy With Diffusion Models](https://www.ndss-symposium.org/ndss-paper/diffence-fencing-membership-privacy-with-diffusion-models/)
+- [Dissecting Payload-based Transaction Phishing on Ethereum](https://www.ndss-symposium.org/ndss-paper/dissecting-payload-based-transaction-phishing-on-ethereum/)
+- [Duumviri: Detecting Trackers and Mixed Trackers with a Breakage Detector](https://www.ndss-symposium.org/ndss-paper/duumviri-detecting-trackers-and-mixed-trackers-with-a-breakage-detector/)
+- [ERW-Radar: An Adaptive Detection System against Evasive Ransomware by Contextual Behavior Detection and Fine-grained Content Analysis](https://www.ndss-symposium.org/ndss-paper/erw-radar-an-adaptive-detection-system-against-evasive-ransomware-by-contextual-behavior-detection-and-fine-grained-content-analysis/)
+- [EvoCrawl: Exploring Web Application Code and State using Evolutionary Search](https://www.ndss-symposium.org/ndss-paper/evocrawl-exploring-web-application-code-and-state-using-evolutionary-search/)
+- [Explanation as a Watermark: Towards Harmless and Multi-bit Model Ownership Verification via Watermarking Feature Attribution](https://www.ndss-symposium.org/ndss-paper/explanation-as-a-watermark-towards-harmless-and-multi-bit-model-ownership-verification-via-watermarking-feature-attribution/)
+- [Generating API Parameter Security Rules with LLM for API Misuse Detection](https://www.ndss-symposium.org/ndss-paper/generating-api-parameter-security-rules-with-llm-for-api-misuse-detection/)
