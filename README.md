@@ -14,26 +14,26 @@
 - [Field](#field)
   - [Autonomous Driving](#autonomous-driving)
   - [Blockchain](#blockchain)
-  - [Computer security](#computer-security)
-  - [computer vision](#computer-vision)
+  - [Computer Security](#computer-security)
+  - [Computer Vision](#computer-vision)
   - [Differential Privacy](#differential-privacy)
   - [Diffusion Models](#diffusion-models)
-  - [Distributed System security](#distributed-system-security)
+  - [Distributed System Security](#distributed-system-security)
   - [Ethereum](#ethereum)
-  - [federated learning](#federated-learning)
+  - [Federated Learning](#federated-learning)
   - [Fingerprint-based Authentication](#fingerprint-based-authentication)
-  - [IoT security](#iot-security)
+  - [IoT Security](#iot-security)
   - [LLM](#llm)
-  - [machine learning](#machine-learning)
-  - [metaverse](#metaverse)
-  - [Mobile device security](#mobile-device-security)
-  - [natural language processing](#natural-language-processing)
+  - [Machine Learning](#machine-learning)
+  - [Metaverse](#metaverse)
+  - [Mobile Device Security](#mobile-device-security)
+  - [Natural Language Processing](#natural-language-processing)
   - [Outsourcing](#outsourcing)
   - [Secure Multi-Party Computation](#secure-multi-party-computation)
-  - [side-channel attack](#side-channel-attack)
-  - [Trusted execution environment](#trusted-execution-environment)
+  - [Side-channel Attack](#side-channel-attack)
+  - [Trusted Execution Environment](#trusted-execution-environment)
   - [Transformer](#transformer)
-  - [Web security](#web-security)
+  - [Web Security](#web-security)
 
 - [all paper](#all-paper)
   - [NDSS 2025](#ndss-2025)
@@ -62,7 +62,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## Computer security
+## Computer Security
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -83,7 +83,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## computer vision
+## Computer Vision
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -109,7 +109,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## Distributed System security
+## Distributed System Security
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -126,7 +126,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## federated learning
+## Federated Learning
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -143,7 +143,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## IoT security
+## IoT Security
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -165,7 +165,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## machine learning
+## Machine Learning
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -182,7 +182,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## metaverse
+## Metaverse
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -190,7 +190,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## Mobile device security
+## Mobile Device Security
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -202,7 +202,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## natural language processing
+## Natural Language Processing
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -219,7 +219,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## radio frequency Sensing
+## Radio Frequency Sensing
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -235,7 +235,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## side-channel attack
+## Side-channel Attack
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -244,7 +244,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## Trusted execution environment
+## Trusted Execution Environment
 
 |Problem|Paper|conference|
 |-|-|-|
@@ -263,7 +263,7 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
-## Web security
+## Web Security
 
 |Problem|Paper|conference|
 |-|-|-|
