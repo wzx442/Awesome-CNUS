@@ -1,8 +1,15 @@
-# Awesome-CNUS
+# Awesome-CNUS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 🤗 本仓库是为了收集信息安全四大会2025年发表论文所关注的领域,为读者提供近年的发文方向。
 
+> **This repository is designed to collect the areas of focus of the papers published at the Four Major Information Security Conferences in 2025, providing readers with the latest publication directions in recent years.**
+
 😢 因个人能力有限，如有错误，还望指正。
+
+> **Due to my limited ability, if there are any mistakes, I sincerely hope to point them out.**
+
+---------------------
+**Why CNUS?**
 
 - C (ACM Conference on Computer and Communications Security)
 - N (Network and Distributed System Security Symposium)
@@ -11,10 +18,10 @@
 
 ## Table of Contents
 
-- [Awesome-CNUS](#awesome-cnus)
 - [Table of Contents](#table-of-contents)
 - [Field](#field)
   - [Accessible Security](#accessible-security)
+  - [Auditing](#auditing)
   - [Autonomous Driving](#autonomous-driving)
   - [Blockchain](#blockchain)
   - [Confidential Computing](#confidential-computing)
@@ -26,6 +33,7 @@
   - [Ethereum](#ethereum)
   - [Federated Learning](#federated-learning)
   - [Fingerprint-based Authentication](#fingerprint-based-authentication)
+  - [Graph Neural Networks](#graph-neural-networks)
   - [IoT Security](#iot-security)
   - [LLM](#llm)
   - [Machine Learning](#machine-learning)
@@ -58,6 +66,14 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
+## Auditing
+
+|Problem|Paper|conference|
+|-|-|-|
+|web3 security|[Exploring User Perceptions of Security Auditing in the Web3 Ecosystem](https://www.ndss-symposium.org/ndss-paper/exploring-user-perceptions-of-security-auditing-in-the-web3-ecosystem/)|NDSS 2025|
+
+⬆️[Back to the directory](#table-of-contents)🔝
+
 ## Autonomous Driving
 
 |Problem|Paper|conference|
@@ -76,6 +92,7 @@
 |sharding blockchain consensus|[Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead](https://www.ndss-symposium.org/ndss-paper/kronos-a-secure-and-generic-sharding-blockchain-consensus-with-optimized-overhead/)|NDSS 2025|
 |blockchain throughput|[Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding](https://www.ndss-symposium.org/ndss-paper/manifoldchain-maximizing-blockchain-throughput-via-bandwidth-clustered-sharding/)|NDSS 2025|
 |cryptocurrencies|[Alba: The Dawn of Scalable Bridges for Blockchains](https://www.ndss-symposium.org/ndss-paper/alba-the-dawn-of-scalable-bridges-for-blockchains/)|NDSS 2025|
+|Eclipse attack|[Eclipse Attacks on Monero's Peer-to-Peer Network](https://www.ndss-symposium.org/ndss-paper/eclipse-attacks-on-moneros-peer-to-peer-network/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -169,6 +186,7 @@
 |-|-|-|
 |Gradient Inversion Attack|[CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling](https://www.ndss-symposium.org/ndss-paper/censor-defense-against-gradient-inversion-via-orthogonal-subspace-bayesian-sampling/)|NDSS 2025|
 |Split Learning|[Passive Inference Attacks on Split Learning via Adversarial Regularization](https://www.ndss-symposium.org/ndss-paper/passive-inference-attacks-on-split-learning-via-adversarial-regularization/)|NDSS 2025|
+|poisoning attacks|[Do We Really Need to Design New Byzantine-robust Aggregation Rules?](https://www.ndss-symposium.org/ndss-paper/do-we-really-need-to-design-new-byzantine-robust-aggregation-rules/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -180,6 +198,14 @@
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
+## Graph Neural Networks
+
+|Problem|Paper|conference|
+|-|-|-|
+|Backdoor Attacks|[DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning](https://www.ndss-symposium.org/ndss-paper/dshield-defending-against-backdoor-attacks-on-graph-neural-networks-via-discrepancy-learning/)|NDSS 2025|
+
+⬆️[Back to the directory](#table-of-contents)🔝
+
 ## IoT Security
 
 |Problem|Paper|conference|
@@ -188,6 +214,8 @@
 |Sensors safety|[PowerRadio: Manipulate Sensor Measurement via Power GND Radiation](https://www.ndss-symposium.org/ndss-paper/powerradio-manipulate-sensor-measurement-via-power-gnd-radiation/)|NDSS 2025|
 |Sensors safety|[ReThink: Reveal the Threat of Electromagnetic Interference on Power Inverters](https://www.ndss-symposium.org/ndss-paper/rethink-reveal-the-threat-of-electromagnetic-interference-on-power-inverters/)|NDSS 2025|
 |Bluetooth Low Energy (BLE) and Wi-Fi security|[Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation](https://www.ndss-symposium.org/ndss-paper/deanonymizing-device-identities-via-side-channel-attacks-in-exclusive-use-iots-mitigation/)|NDSS 2025|
+|Hidden web interfaces|[EAGLEYE: Exposing Hidden Web Interfaces in IoT Devices via Routing Analysis](https://www.ndss-symposium.org/ndss-paper/eagleye-exposing-hidden-web-interfaces-in-iot-devices-via-routing-analysis/)|NDSS 2025|
+|Performance Degradation|[Evaluating Machine Learning-Based IoT Device Identification Models for Security Applications](https://www.ndss-symposium.org/ndss-paper/evaluating-machine-learning-based-iot-device-identification-models-for-security-applications/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -202,6 +230,7 @@
 |LLM security|[THEMIS: Regulating Textual Inversion for Personalized Concept Censorship](https://www.ndss-symposium.org/ndss-paper/themis-regulating-textual-inversion-for-personalized-concept-censorship/)|NDSS 2025|
 |Model quantization|[A New PPML Paradigm for Quantized Models](https://www.ndss-symposium.org/ndss-paper/a-new-ppml-paradigm-for-quantized-models/)|NDSS 2025|
 |Function name inference|[Beyond Classification: Inferring Function Names in Stripped Binaries via Domain Adapted LLMs](https://www.ndss-symposium.org/ndss-paper/beyond-classification-inferring-function-names-in-stripped-binaries-via-domain-adapted-llms/)|NDSS 2025|
+|Vulnerability Detection|[From Large to Mammoth: A Comparative Evaluation of Large Language Models in Vulnerability Detection](https://www.ndss-symposium.org/ndss-paper/from-large-to-mammoth-a-comparative-evaluation-of-large-language-models-in-vulnerability-detection/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -224,6 +253,7 @@
 |Backdoor attacks|[BARBIE: Robust Backdoor Detection Based on Latent Separability](https://www.ndss-symposium.org/ndss-paper/barbie-robust-backdoor-detection-based-on-latent-separability/)|NDSS 2025|
 |bit-flip attacks|[BitShield: Defending Against Bit-Flip Attacks on DNN Executables](https://www.ndss-symposium.org/ndss-paper/bitshield-defending-against-bit-flip-attacks-on-dnn-executables/)|NDSS 2025|
 |Membership Inference Attacks|[Defending Against Membership Inference Attacks on Iteratively Pruned Deep Neural Networks](https://www.ndss-symposium.org/ndss-paper/defending-against-membership-inference-attacks-on-iteratively-pruned-deep-neural-networks/)|NDSS 2025|
+|data leakage|[DLBox: New Model Training Framework for Protecting Training Data](https://www.ndss-symposium.org/ndss-paper/dlbox-new-model-training-framework-for-protecting-training-data/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -291,6 +321,7 @@
 |Super App Security|[Understanding Miniapp Malware: Identification, Dissection, and Characterization](https://www.ndss-symposium.org/ndss-paper/understanding-miniapp-malware-identification-dissection-and-characterization/)|NDSS 2025|
 |Sparsity|[Density Boosts Everything: A One-stop Strategy for Improving Performance, Robustness, and Sustainability of Malware Detectors](https://www.ndss-symposium.org/ndss-paper/density-boosts-everything-a-one-stop-strategy-for-improving-performance-robustness-and-sustainability-of-malware-detectors/)|NDSS 2025|
 |Ransomware attacks|[Detecting Ransomware Despite I/O Overhead: A Practical Multi-Staged Approach](https://www.ndss-symposium.org/ndss-paper/detecting-ransomware-despite-i-o-overhead-a-practical-multi-staged-approach/)|NDSS 2025|
+|1-day vulnerability|[Enhancing Security in Third-Party Library Reuse – Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis](https://www.ndss-symposium.org/ndss-paper/enhancing-security-in-third-party-library-reuse-comprehensive-detection-of-1-day-vulnerability-through-code-patch-analysis/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -299,6 +330,7 @@
 |Problem|Paper|conference|
 |-|-|-|
 |Secure Inference|[BumbleBee: Secure Two-party Inference Framework for Large Transformers](https://www.ndss-symposium.org/ndss-paper/bumblebee-secure-two-party-inference-framework-for-large-transformers/)|NDSS 2025|
+|Function Secret Sharing|[Distributed Function Secret Sharing and Applications](https://www.ndss-symposium.org/ndss-paper/distributed-function-secret-sharing-and-applications/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -308,6 +340,7 @@
 |-|-|-|
 |CPU caches side-channel attack|[A Systematic Evaluation of Novel and Existing Cache Side Channels](https://www.ndss-symposium.org/ndss-paper/a-systematic-evaluation-of-novel-and-existing-cache-side-channels/)|NDSS 2025|
 |TCP hijacking attacks|[Off-Path TCP Hijacking in Wi-Fi Networks: A Packet-Size Side Channel Attack](https://www.ndss-symposium.org/ndss-paper/off-path-tcp-hijacking-in-wi-fi-networks-a-packet-size-side-channel-attack/)|NDSS 2025|
+|Iris security|[EMIRIS: Eavesdropping on Iris Information via Electromagnetic Side Channel](https://www.ndss-symposium.org/ndss-paper/emiris-eavesdropping-on-iris-information-via-electromagnetic-side-channel/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -370,6 +403,9 @@
 |Open source software security|[Attributing Open-Source Contributions is Critical but Difficult: A Systematic Analysis of GitHub Practices and Their Impact on Software Supply Chain Security](https://www.ndss-symposium.org/ndss-paper/attributing-open-source-contributions-is-critical-but-difficult-a-systematic-analysis-of-github-practices-and-their-impact-on-software-supply-chain-security/)|NDSS 2025|
 |Email clients auto-configuration|[Automatic Insecurity: Exploring Email Auto-configuration in the Wild](https://www.ndss-symposium.org/ndss-paper/automatic-insecurity-exploring-email-auto-configuration-in-the-wild/)|NDSS 2025|
 |Online scams|[Ctrl+Alt+Deceive: Quantifying User Exposure to Online Scams](https://www.ndss-symposium.org/ndss-paper/ctrlaltdeceive-quantifying-user-exposure-to-online-scams/)|NDSS 2025|
+|TLS-encrypted|[DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More](https://www.ndss-symposium.org/ndss-paper/distefano-decentralized-infrastructure-for-sharing-trusted-encrypted-facts-and-nothing-more/)|NDSS 2025|
+|Open redirects|[Do (Not) Follow the White Rabbit: Challenging the Myth of Harmless Open Redirection](https://www.ndss-symposium.org/ndss-paper/do-not-follow-the-white-rabbit-challenging-the-myth-of-harmless-open-redirection/)|NDSS 2025|
+|JS engine vulnerabilities|[DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://www.ndss-symposium.org/ndss-paper/dumpling-fine-grained-differential-javascript-engine-fuzzing/)|NDSS 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
