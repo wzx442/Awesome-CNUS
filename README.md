@@ -72,6 +72,7 @@ Updating...
     - [Transformer](#transformer)
     - [Usable Security](#usable-security)
     - [Virtual Reality](#virtual-reality)
+    - [Watermark](#watermark)
     - [Wireless](#wireless)
     - [Zero-knowledge Proof](#zero-knowledge-proof)
   - [All Paper](#all-paper)
@@ -102,6 +103,7 @@ Updating...
 |user-privacy|[Analyzing the AI Nudification Application Ecosystem](https://www.usenix.org/conference/usenixsecurity25/presentation/gibson)|USENIX Security 2025|
 |backdoor attacks|[From Purity to Peril: Backdooring Merged Models From "Harmless" Benign Components](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-lijin)|USENIX Security 2025|
 |user privacy|[Whispering Under the Eaves: Protecting User Privacy Against Commercial and LLM-powered Automatic Speech Recognition Systems](https://www.usenix.org/conference/usenixsecurity25/presentation/jin-weifei)|USENIX Security 2025|
+|patch generation|[APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching](https://www.usenix.org/conference/usenixsecurity25/presentation/nong)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -155,6 +157,11 @@ Updating...
 |RingCT|[BulletCT: Towards More Scalable Ring Confidential Transactions With Transparent Setup](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-nan)|USENIX Security 2025|
 |Unveiling Inconsistency Bugs|[Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain](https://www.usenix.org/conference/usenixsecurity25/presentation/zheyuan)|USENIX Security 2025|
 |Price manipulation attack|[Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-bosi)|USENIX Security 2025|
+|miner extractable value|[BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention](https://www.usenix.org/conference/usenixsecurity25/presentation/bormet)|USENIX Security 2025|
+|smart contracts |[Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://www.usenix.org/conference/usenixsecurity25/presentation/fabrega-entropy)|USENIX Security 2025|
+|mempool security|[Practical Mempool Privacy via One-time Setup Batched Threshold Encryption](https://www.usenix.org/conference/usenixsecurity25/presentation/choudhuri)|USENIX Security 2025|
+|Byzantine fault-tolerant (BFT) state machine replication (SMR) protocols|[Recover from Excessive Faults in Partially-Synchronous BFT SMR](https://www.usenix.org/conference/usenixsecurity25/presentation/gong-tiantian)|USENIX Security 2025|
+|application layer vulnerabilies|[Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer](https://www.usenix.org/conference/usenixsecurity25/presentation/ma-zuchao)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -205,6 +212,7 @@ Updating...
 |Real-time Clock vulnerabilities|[TimeTravel: Real-time Timing Drift Attack on System Time Using Acoustic Waves](https://www.usenix.org/conference/usenixsecurity25/presentation/liu-jianshuo)|USENIX Security 2025|
 |spatial and temporal memory errors|[RangeSanitizer: Detecting Memory Errors with Efficient Range Checks](https://www.usenix.org/conference/usenixsecurity25/presentation/gorter)|USENIX Security 2025|
 |memory-safety vulnerabilities|[When Good Kernel Defenses Go Bad: Reliable and Stable Kernel Exploits via Defense-Amplified TLB Side-Channel Leaks](https://www.usenix.org/conference/usenixsecurity25/presentation/maar-kernel)|USENIX Security 2025|
+|kernel security|[System Register Hijacking: Compromising Kernel Integrity By Turning System Registers Against the System](https://www.usenix.org/conference/usenixsecurity25/presentation/miller)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -247,6 +255,9 @@ Updating...
 |Problem|Paper|conference|
 |-|-|-|
 |encrypted data ordering|[Engorgio: An Arbitrary-Precision Unbounded-Size Hybrid Encrypted Database via Quantized Fully Homomorphic Encryption](https://www.usenix.org/conference/usenixsecurity25/presentation/bian)|USENIX Security 2025|
+|oblivious database|[OBLIVIATOR: OBLIVIous Parallel Joins and other OperATORs in Shared Memory Environments](https://www.usenix.org/conference/usenixsecurity25/presentation/mavrogiannakis)|USENIX Security 2025|
+|keyword Private Information Retrieval|[Practical Keyword Private Information Retrieval from Key-to-Index Mappings](https://www.usenix.org/conference/usenixsecurity25/presentation/hao)|USENIX Security 2025|
+|Private set union|[Fast Enhanced Private Set Union in the Balanced and Unbalanced Scenarios](https://www.usenix.org/conference/usenixsecurity25/presentation/tu)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -265,6 +276,7 @@ Updating...
 |Security analysis data|[PICACHV: Formally Verified Data Use Policy Enforcement for Secure Data Analytics](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-haobin)|USENIX Security 2025|
 |Provably Secure Steganography|[SparSamp: Efficient Provably Secure Steganography Based on Sparse Sampling](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-yaofei)|USENIX Security 2025|
 |digital emblems|[Oblivious Digital Tokens](https://www.usenix.org/conference/usenixsecurity25/presentation/liskij)|USENIX Security 2025|
+|private set intersection (PSI)|[Private Set Intersection and other Set Operations in the Third Party Setting](https://www.usenix.org/conference/usenixsecurity25/presentation/yeo)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -275,6 +287,8 @@ Updating...
 |user privacy|[THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-yujin)|USENIX Security 2025|
 |Speech PErturbative Concealment|[SafeSpeech: Robust and Universal Voice Protection Against Malicious Speech Synthesis](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-zhisheng)|USENIX Security 2025|
 |deepfake detcetion|[VoiceWukong: Benchmarking Deepfake Voice Detection](https://www.usenix.org/conference/usenixsecurity25/presentation/yan-ziwei)|USENIX Security 2025|
+|sexual deepfake|[Characterizing the MrDeepFakes Sexual Deepfake Marketplace](https://www.usenix.org/conference/usenixsecurity25/presentation/han)|USENIX Security 2025|
+|vulnerability |[Chimera: Creating Digitally Signed Fake Photos by Fooling Image Recapture and Deepfake Detectors](https://www.usenix.org/conference/usenixsecurity25/presentation/park)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -301,6 +315,8 @@ Updating...
 |Diffusion Finetuning Attack (DFA)|[Pretender: Universal Active Defense against Diffusion Finetuning Attacks](https://www.usenix.org/conference/usenixsecurity25/presentation/sun-zekun)|USENIX Security 2025|
 |Malicious or manipulated prompts |[On the Proactive Generation of Unsafe Images From Text-To-Image Models Using Benign Prompts](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-yixin-generation)|USENIX Security 2025|
 |model safety|[Exposing the Guardrails: Reverse-Engineering and Jailbreaking Safety Filters in DALL·E Text-to-Image Pipelines](https://www.usenix.org/conference/usenixsecurity25/presentation/villa)|USENIX Security 2025|
+|vulnerability|[Watch the Watchers! On the Security Risks of Robustness-Enhancing Diffusion Models](https://www.usenix.org/conference/usenixsecurity25/presentation/li-changjiang)|USENIX Security 2025|
+|Copyright Protections|[LightShed: Defeating Perturbation-based Image Copyright Protections](https://www.usenix.org/conference/usenixsecurity25/presentation/foerster)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -312,6 +328,7 @@ Updating...
 |Fuzzing|[Blackbox Fuzzing of Distributed Systems with Multi-Dimensional Inputs and Symmetry-Based Feedback Pruning](https://www.ndss-symposium.org/ndss-paper/blackbox-fuzzing-of-distributed-systems-with-multi-dimensional-inputs-and-symmetry-based-feedback-pruning/)|NDSS 2025|
 |Unauthenticated directed acyclic graph|[Mysticeti: Reaching the Latency Limits with Uncertified DAGs](https://www.ndss-symposium.org/ndss-paper/mysticeti-reaching-the-latency-limits-with-uncertified-dags/)|NDSS 2025|
 |Metadata consistency|[Finding Metadata Inconsistencies in Distributed File Systems via Cross-Node Operation Modeling](https://www.usenix.org/conference/usenixsecurity25/presentation/ma-fuchen)|USENIX Security 2025|
+|asynchronous consensus protocol|[TockOwl: Asynchronous Consensus with Fault and Network Adaptability](https://www.usenix.org/conference/usenixsecurity25/presentation/li-minghang)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -341,6 +358,7 @@ Updating...
 |PTXPHISH phishing|[Dissecting Payload-based Transaction Phishing on Ethereum](https://www.ndss-symposium.org/ndss-paper/dissecting-payload-based-transaction-phishing-on-ethereum/)|NDSS 2025|
 |anti-reentrancy patterns detection|[Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection](https://www.ndss-symposium.org/ndss-paper/silence-false-alarms-identifying-anti-reentrancy-patterns-on-ethereum-to-refine-smart-contract-reentrancy-detection/)|NDSS 2025|
 |P2P network does not offer this anonymity|[Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://www.usenix.org/conference/usenixsecurity25/presentation/heimbach)|USENIX Security 2025|
+|Proof-of-Stake|[Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-mingfei)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -368,6 +386,7 @@ Updating...
 |-|-|-|
 |Backdoor Attacks|[DShield: Defending against Backdoor Attacks on Graph Neural Networks via Discrepancy Learning](https://www.ndss-symposium.org/ndss-paper/dshield-defending-against-backdoor-attacks-on-graph-neural-networks-via-discrepancy-learning/)|NDSS 2025|
 |adversarial perturbations|[AGNNCert: Defending Graph Neural Networks against Arbitrary Perturbations with Deterministic Certification](https://www.usenix.org/conference/usenixsecurity25/presentation/li-jiate)|USENIX Security 2025|
+|preserving privacy |[Distributed Private Aggregation in Graph Neural Networks](https://www.usenix.org/conference/usenixsecurity25/presentation/jia-huanhuan)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -382,6 +401,9 @@ Updating...
 |Transient execution vulnerabilities detection|[Phantom Trails: Practical Pre-Silicon Discovery of Transient Data Leaks](https://www.usenix.org/conference/usenixsecurity25/presentation/de-faveri-tron)|USENIX Security 2025|
 |Hardware fuzzing|[Encarsia: Evaluating CPU Fuzzers via Automatic Bug Injection](https://www.usenix.org/conference/usenixsecurity25/presentation/bolcskei)|USENIX Security 2025|
 |memory access patterns|[H2O2RAM: A High-Performance Hierarchical Doubly Oblivious RAM](https://www.usenix.org/conference/usenixsecurity25/presentation/zheng)|USENIX Security 2025|
+|CPU security|[FLOP: Breaking the Apple M3 CPU via False Load Output Predictions](https://www.usenix.org/conference/usenixsecurity25/presentation/kim-jason)|USENIX Security 2025|
+|cache designs|[Systematic Evaluation of Randomized Cache Designs against Cache Occupancy](https://www.usenix.org/conference/usenixsecurity25/presentation/chakraborty)|USENIX Security 2025|
+|white-box hardware fuzzing framework|[GenHuzz: An Efficient Generative Hardware Fuzzer](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-lichao)|USENIX Security 2025| 
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -431,6 +453,8 @@ Updating...
 |MQTT|[MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers](https://www.usenix.org/conference/usenixsecurity25/presentation/song-xiangpu)|USENIX Security 2025|
 |fingerprinting framework|[Secure Information Embedding in Forensic 3D Fingerprinting](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-canran)|USENIX Security 2025|
 |Cyber-Physical Deception System (CPDS) |[Cyber-Physical Deception Through Coordinated IoT Honeypots](https://www.usenix.org/conference/usenixsecurity25/presentation/guan)|USENIX Security 2025|
+|Real-World Attacks|[TORCHLIGHT: Shedding LIGHT on Real-World Attacks on Cloudless IoT Devices Concealed within the Tor Network](https://www.usenix.org/conference/usenixsecurity25/presentation/pan-yumingzhi)|USENIX Security 2025|
+|Bluetooth devices security|[Tracking You from a Thousand Miles Away! Turning a Bluetooth Device into an Apple AirTag Without Root Privileges](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-junming)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -468,6 +492,13 @@ Updating...
 |Jailbreak|[Great, Now Write an Article About That: The Crescendo Multi-Turn LLM Jailbreak Attack](https://www.usenix.org/conference/usenixsecurity25/presentation/russinovich)|USENIX Security 2025|
 |online LLM security|[When LLMs Go Online: The Emerging Threat of Web-Enabled LLMs](https://www.usenix.org/conference/usenixsecurity25/presentation/kim-hanna)|USENIX Security 2025|
 |Hate Speech Detectors| [HateBench: Benchmarking Hate Speech Detectors on LLM-Generated Content and Hate Campaigns](https://www.usenix.org/conference/usenixsecurity25/presentation/shen)|USENIX Security 2025|
+|Membership Inference Attacks|[Membership Inference Attacks Against Vision-Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/hu-yuke)|USENIX Security 2025|
+|RAG|[Machine Against the RAG: Jamming Retrieval-Augmented Generation with Blocker Documents](https://www.usenix.org/conference/usenixsecurity25/presentation/shafran)|USENIX Security 2025|
+|VLM security|[From Meme to Threat: On the Hateful Meme Understanding and Induced Hateful Content Generation in Open-Source Vision Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/ma-yihan)|USENIX Security 2025|
+
+|privacy risks|[Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data](https://www.usenix.org/conference/usenixsecurity25/presentation/akkus)|USENIX Security 2025|
+|Label-Only Membership Inference Attack|[Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/he-yu)|USENIX Security 2025|
+|Hallucination|[Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-yining)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -508,6 +539,9 @@ Updating...
 |Secure data alignment|[Suda: An Efficient and Secure Unbalanced Data Alignment Framework for Vertical Privacy-Preserving Machine Learning](https://www.usenix.org/conference/usenixsecurity25/presentation/song-lushan)|USENIX Security 2025|
 |Data Duplication|[Data Duplication: A Novel Multi-Purpose Attack Paradigm in Machine Unlearning](https://www.usenix.org/conference/usenixsecurity25/presentation/ye-duplication)|USENIX Security 2025|
 |membership inference attacks (MIAs)|[Enhanced Label-Only Membership Inference Attacks with Fewer Queries](https://www.usenix.org/conference/usenixsecurity25/presentation/li-hao)|USENIX Security 2025|
+|Targeted Attribute Inference Attacks|[Disparate Privacy Vulnerability: Targeted Attribute Inference Attacks and Defenses](https://www.usenix.org/conference/usenixsecurity25/presentation/kabir)|USENIX Security 2025|
+|privacy-preserving|[Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System](https://www.usenix.org/conference/usenixsecurity25/presentation/bai-juyang)|USENIX Security 2025|
+|Backdoor Attacks|[DeBackdoor: A Deductive Framework for Detecting Backdoor Attacks on Deep Models with Limited Data](https://www.usenix.org/conference/usenixsecurity25/presentation/popovic)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -638,6 +672,22 @@ Updating...
 |Rowhammer Attacks|[Posthammer: Pervasive Browser-based Rowhammer Attacks with Postponed Refresh Commands](https://www.usenix.org/conference/usenixsecurity25/presentation/de-ridder)|USENIX Security 2025|
 |Steganography|[A Framework for Designing Provably Secure Steganography](https://www.usenix.org/conference/usenixsecurity25/presentation/liao)|USENIX Security 2025|
 |DDoS attack|[Assessing the Aftermath: the Effects of a Global Takedown against DDoS-for-hire Services](https://www.usenix.org/conference/usenixsecurity25/presentation/vu)|USENIX Security 2025|
+|privacy concerns with chatbots on group messaging platforms|[Bots can Snoop: Uncovering and Mitigating Privacy Risks of Bots in Group Chats](https://www.usenix.org/conference/usenixsecurity25/presentation/chou)|USENIX Security 2025|
+|SSH security|[Catch-22: Uncovering Compromised Hosts using SSH Public Keys](https://www.usenix.org/conference/usenixsecurity25/presentation/munteanu)|USENIX Security 2025|
+|Internet-wide scanning services|[Trust but Verify: An Assessment of Vulnerability Tagging Services](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-szu-chun)|USENIX Security 2025|
+|Detection of violations|[zk-promises: Anonymous Moderation, Reputation, and Blocking from Anonymous Credentials with Callbacks](https://www.usenix.org/conference/usenixsecurity25/presentation/shih)|USENIX Security 2025|
+|domain vulnerability|[Misty Registry: An Empirical Study of Flawed Domain Registry Operation](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-mingming)|USENIX Security 2025|
+|Software supply chain attacks |[ChainFuzz: Exploiting Upstream Vulnerabilities in Open-Source Supply Chains](https://www.usenix.org/conference/usenixsecurity25/presentation/deng)|USENIX Security 2025|
+|WebXR vulnerabilities|[Shadowed Realities: An Investigation of UI Attacks in WebXR](https://www.usenix.org/conference/usenixsecurity25/presentation/mukherjee)|USENIX Security 2025|
+|NOKEScam|[NOKEScam: Understanding and Rectifying Non-Sense Keywords Spear Scam in Search Engines](https://www.usenix.org/conference/usenixsecurity25/presentation/liu-mingxuan)|USENIX Security 2025|
+|side-channel vulnerabilities|[Endangered Privacy: Large-Scale Monitoring of Video Streaming Services](https://www.usenix.org/conference/usenixsecurity25/presentation/bjorklund)|USENIX Security 2025|
+|stateful black-box fuzz-testing framework for 5G core network|[CoreCrisis: Threat-Guided and Context-Aware Iterative Learning and Fuzzing of 5G Core Networks](https://www.usenix.org/conference/usenixsecurity25/presentation/dong-yilu)|USENIX Security 2025|
+|web applications vulnerabilities|[FIXX: FInding eXploits from eXamples](https://www.usenix.org/conference/usenixsecurity25/presentation/thimmaiah)|USENIX Security 2025|
+|cross-thread dataflows|[Towards Automatic Detection and Exploitation of Java Web Application Vulnerabilities via Concolic Execution guided by Cross-thread Object Manipulation](https://www.usenix.org/conference/usenixsecurity25/presentation/huang-xinyou)|USENIX Security 2025|
+|QR code-based Login vulnerabilities|[Demystifying the (In)Security of QR Code-based Login in Real-world Deployments](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xin)|USENIX Security 2025|
+|Phishing Links in Emails|[URL Inspection Tasks: Helping Users Detect Phishing Links in Emails](https://www.usenix.org/conference/usenixsecurity25/presentation/lain)|USENIX Security 2025|
+|web vulnerabilities|[Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection](https://www.usenix.org/conference/usenixsecurity25/presentation/lin-zihan)|USENIX Security 2025|
+|Artificially inflated traffic (AIT) attacks|[Preventing Artificially Inflated SMS Attacks through Large-Scale Traffic Inspection](https://www.usenix.org/conference/usenixsecurity25/presentation/huh)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -655,6 +705,7 @@ Updating...
 |-|-|-|
 |user privacy|[Who Pays Whom? Anonymous EMV-Compliant Contactless Payments](https://www.usenix.org/conference/usenixsecurity25/presentation/olivier-anclin)|USENIX Security 2025|
 |EMV contactless payment system|[More is Less: Extra Features in Contactless Payments Break Security](https://www.usenix.org/conference/usenixsecurity25/presentation/pavlides)|USENIX Security 2025|
+|Unified Payments Interface (UPI) payment systems|[Security and Privacy Advice for UPI Users in India](https://www.usenix.org/conference/usenixsecurity25/presentation/mungara)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -676,6 +727,7 @@ Updating...
 |Safe conversion|[Translating C To Rust: Lessons from a User Study](https://www.ndss-symposium.org/ndss-paper/translating-c-to-rust-lessons-from-a-user-study/)|NDSS 2025|
 |memory errors|[Fuzzing the PHP Interpreter via Dataflow Fusion](https://www.usenix.org/conference/usenixsecurity25/presentation/jiang-yuancheng)|USENIX Security 2025|
 |secure high-performance|[Shechi: A Secure Distributed Computation Compiler Based on Multiparty Homomorphic Encryption](https://www.usenix.org/conference/usenixsecurity25/presentation/smajlovic)|USENIX Security 2025|
+|Type Confusion Bugs|[TYPEPULSE: Detecting Type Confusion Bugs in Rust Programs](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-hung-mao)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -728,6 +780,8 @@ Updating...
 |Fully asynchronous MPC|[Dumbo-MPC: Efficient Fully Asynchronous MPC with Optimal Resilience](https://www.usenix.org/conference/usenixsecurity25/presentation/su-yuan)|USENIX Security 2025|
 |user privacy|[CoVault: Secure, Scalable Analytics of Personal Data](https://www.usenix.org/conference/usenixsecurity25/presentation/de-viti)|USENIX Security 2025|
 |Secure equality testing and comparison|[Efficient 2PC for Constant Round Secure Equality Testing and Comparison](https://www.usenix.org/conference/usenixsecurity25/presentation/lu)|USENIX Security 2025|
+|Private Join and Compute|[Learning from Functionality Outputs: Private Join and Compute in the Real World](https://www.usenix.org/conference/usenixsecurity25/presentation/falzon)|USENIX Security 2025|
+|communication overhead|[HawkEye: Statically and Accurately Profiling the Communication Cost of Models in Multi-party Learning](https://www.usenix.org/conference/usenixsecurity25/presentation/ruan)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -788,6 +842,16 @@ Updating...
 |Code reuse attacks|[Await() a Second: Evading Control Flow Integrity by Hijacking C++ Coroutines](https://www.usenix.org/conference/usenixsecurity25/presentation/bajo)|USENIX Security 2025|
 |code-reuse attack |[The DOMino Effect: Detecting and Exploiting DOM Clobbering Gadgets via Concolic Execution with Symbolic DOM](https://www.usenix.org/conference/usenixsecurity25/presentation/liu-zhengyu)|USENIX Security 2025|
 |firmware security|[Current Affairs: A Security Measurement Study of CCS EV Charging Deployments](https://www.usenix.org/conference/usenixsecurity25/presentation/szakaly)|USENIX Security 2025|
+|semantic perturbation attacks|[When Translators Refuse to Translate: A Novel Attack to Speech Translation Systems](https://www.usenix.org/conference/usenixsecurity25/presentation/wu-haolin)|USENIX Security 2025|
+|Code-Reuse Attacks|[Synthesis of Code-Reuse Attacks from p-code Programs](https://www.usenix.org/conference/usenixsecurity25/presentation/denhoed)|USENIX Security 2025|
+|attack recovery approach|[Software Availability Protection in Cyber-Physical Systems](https://www.usenix.org/conference/usenixsecurity25/presentation/li-ao)|USENIX Security 2025|
+|Security patches|[DISPATCH: Unraveling Security Patches from Entangled Code Changes](https://www.usenix.org/conference/usenixsecurity25/presentation/sun-shiyu)|USENIX Security 2025|
+|Perceptual hashing (PHash)|[CertPHash: Towards Certified Perceptual Hashing via Robust Training](https://www.usenix.org/conference/usenixsecurity25/presentation/yang-yuchen)|USENIX Security 2025|
+|Directed greybox fuzzing |[From Alarms to Real Bugs: Multi-target Multi-step Directed Greybox Fuzzing for Static Analysis Result Verification](https://www.usenix.org/conference/usenixsecurity25/presentation/bao-andrew)|USENIX Security 2025|
+|age detection|[Easy As Child's Play: An Empirical Study on Age Verification of Adult-Oriented Android Apps](https://www.usenix.org/conference/usenixsecurity25/presentation/yao-yifan)|USENIX Security 2025|
+|Data-oriented programming|[Sound and Efficient Generation of Data-Oriented Exploits via Programming Language Synthesis](https://www.usenix.org/conference/usenixsecurity25/presentation/ling)|USENIX Security 2025|
+|greybox fuzzing |[Low-Cost and Comprehensive Non-textual Input Fuzzing with LLM-Synthesized Input Generators](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-kunpeng)|USENIX Security 2025|
+|software vulnerabilities|[A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features](https://www.usenix.org/conference/usenixsecurity25/presentation/ayala)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -815,6 +879,7 @@ Updating...
 |Privilege Separating|[Dorami: Privilege Separating Security Monitor on RISC-V TEEs](https://www.usenix.org/conference/usenixsecurity25/presentation/kuhne)|USENIX Security 2025|
 |against Controlled Channels|[TLBlur: Compiler-Assisted Automated Hardening against Controlled Channels on Off-the-Shelf Intel SGX Platforms](https://www.usenix.org/conference/usenixsecurity25/presentation/vanoverloop)|USENIX Security 2025|
 |Oblivious sorting|[Flexway O-Sort: Enclave-Friendly and Optimal Oblivious Sorting](https://www.usenix.org/conference/usenixsecurity25/presentation/gu-tianyao)|USENIX Security 2025|
+|Oblivious dataset|[OBLIVIATOR: OBLIVIous Parallel Joins and other OperATORs in Shared Memory Environments](https://www.usenix.org/conference/usenixsecurity25/presentation/mavrogiannakis)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
@@ -847,6 +912,14 @@ Updating...
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
+### Watermark
+
+|Problem|Paper|conference|
+|-|-|-|
+|AUDIO WATERMARK|[AUDIO WATERMARK: Dynamic and Harmless Watermark for Black-box Voice Dataset Copyright Protection](https://www.usenix.org/conference/usenixsecurity25/presentation/guo-hanqing)|USENIX Security 2025|
+
+⬆️[Back to the directory](#table-of-contents)🔝
+
 ### Wireless
 
 |Problem|Paper|conference|
@@ -868,6 +941,8 @@ Updating...
 |-|-|-|
 |Zero-knowledge Succinct Non-interactive Argument of Knowledge|[Siniel: Distributed Privacy-Preserving zkSNARK](https://www.ndss-symposium.org/ndss-paper/siniel-distributed-privacy-preserving-zksnark/)|NDSS 2025|
 |Efficient Multilinear Polynomial Commitment from Reed-Solomon Code|[DeepFold: Efficient Multilinear Polynomial Commitment from Reed-Solomon Code and Its Application to Zero-knowledge Proofs](https://www.usenix.org/conference/usenixsecurity25/presentation/guo-yanpei)|USENIX Security 2025|
+|performance of zero-knowledge proof|[DFS: Delegation-friendly zkSNARK and Private Delegation of Provers](https://www.usenix.org/conference/usenixsecurity25/presentation/hu-yuncong)|USENIX Security 2025|
+|Zero-knowledge succinct non-interactive argument of knowledge (zk-SNARK)|[SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://www.usenix.org/conference/usenixsecurity25/presentation/liang-sok)|USENIX Security 2025|
 
 ⬆️[Back to the directory](#table-of-contents)🔝
 
