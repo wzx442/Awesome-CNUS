@@ -11,10 +11,10 @@
 ---------------------
 **Why CNUS?**
 
-- C (ACM Conference on Computer and Communications Security)
-- N (Network and Distributed System Security Symposium)
-- U (USENIX Security Symposium)
-- S (IEEE Symposium on Security & Privacy)
+- C (ACM Conference on **C**omputer and Communications Security)
+- N (**N**etwork and Distributed System Security Symposium)
+- U (**U**SENIX Security Symposium)
+- S (IEEE **S**ymposium on Security & Privacy)
 
 Updating...
 
@@ -495,7 +495,6 @@ Updating...
 |Membership Inference Attacks|[Membership Inference Attacks Against Vision-Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/hu-yuke)|USENIX Security 2025|
 |RAG|[Machine Against the RAG: Jamming Retrieval-Augmented Generation with Blocker Documents](https://www.usenix.org/conference/usenixsecurity25/presentation/shafran)|USENIX Security 2025|
 |VLM security|[From Meme to Threat: On the Hateful Meme Understanding and Induced Hateful Content Generation in Open-Source Vision Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/ma-yihan)|USENIX Security 2025|
-
 |privacy risks|[Generated Data with Fake Privacy: Hidden Dangers of Fine-tuning Large Language Models on Generated Data](https://www.usenix.org/conference/usenixsecurity25/presentation/akkus)|USENIX Security 2025|
 |Label-Only Membership Inference Attack|[Towards Label-Only Membership Inference Attack against Pre-trained Large Language Models](https://www.usenix.org/conference/usenixsecurity25/presentation/he-yu)|USENIX Security 2025|
 |Hallucination|[Mirage in the Eyes: Hallucination Attack on Multi-modal Large Language Models with Only Attention Sink](https://www.usenix.org/conference/usenixsecurity25/presentation/wang-yining)|USENIX Security 2025|
